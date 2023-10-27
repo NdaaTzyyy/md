@@ -1,7 +1,7 @@
 {
-	"name": "azamibot-md-multi",
+	"name": "NdaaBotz-Md",
 	"version": "6.0.0",
-	"description": "WhatsApp Bot - Recoded by Zerenity",
+	"description": "WhatsApp Bot - Recoded by Ndaaaaa",
 	"main": "main.js",
 	"type": "module",
 	"directories": {
@@ -28,14 +28,14 @@
 	],
 	"homepage": "https://github.com/clicknetcafe/azamibot-md-multi",
 	"author": {
-		"name": "clicknetcafe"
+		"name": "NdaaTzyyy"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/clicknetcafe/azamibot-md-multi.git"
+		"url": "git+https://github.com/NdaaTzyyy/md"
 	},
 	"bugs": {
-		"url": "https://github.com/clicknetcafe/azamibot-md-multi/issues"
+		"url": "https://github.com/NdaaTzyyy/md/issues"
 	},
 	"license": "GPL-3.0-or-later",
 	"dependencies": {
